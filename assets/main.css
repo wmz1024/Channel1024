@@ -37,5 +37,20 @@ body {
 .bgb{
     background-color: #009ddc;
     width: 100%;
-    height: 100%;
+    height: 50%;
+}
+.bgc{
+    background-color: #61BB46;
+    width: 100%;
+    height: 50%;
+}
+.bgd{
+    background-color: #009DDC;
+    width: 100%;
+    height: 50%;
+}
+.bge{
+    background-color: E03A3E;
+    width: 100%;
+    height: 50%;
 }
