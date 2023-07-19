@@ -1,0 +1,41 @@
+.screen{
+    width: 100%;
+}
+.dcontent{
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+.logoa{
+    display: inline-block;
+
+}
+@media (max-width: 576px) {
+    .logoa{
+        margin-top: 1.75rem;
+        width: 100%;
+    }
+}
+
+@media (min-width: 576px) {
+    .logoa{
+        margin-top: 33.3vh;
+        width: 50%;
+    }
+    .dcontent{
+        height: 80vh;
+    }
+    .screen{
+        height: 80%;
+    }
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+.bgb{
+    background-color: #009ddc;
+    width: 100%;
+    height: 100%;
+}
