@@ -50,7 +50,7 @@ Channel 1024 Website , Powered By Wmz1024
 
  ## 音乐
 
-频道音乐 https://music.163.com/#/song?id=1299576200
+频道音乐 https://music.163.com/#/song?id=1299575776
 
 ## 其他
 
