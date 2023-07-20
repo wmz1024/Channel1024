@@ -54,4 +54,4 @@ Channel 1024 Website , Powered By Wmz1024
 
 ## 其他
 
-[节目单](/docs/#/next)
+[节目单](https://www.channel1024.top/doc/#/next)
